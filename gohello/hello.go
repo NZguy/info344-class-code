@@ -8,5 +8,5 @@ import (
 
 func main() {
     fmt.Println(reverse.Reverse("Hello World!"))
-    fmt.Println(os.Args[0])
+    fmt.Println(os.Args[0]);
 }
